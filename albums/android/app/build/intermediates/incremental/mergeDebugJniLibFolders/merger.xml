@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Projects\Tutorial\React\ReactNativeProj1\albums\android\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Projects\Tutorial\React\ReactNativeProj1\albums\android\app\src\debug\jniLibs"/></dataSet></merger>
