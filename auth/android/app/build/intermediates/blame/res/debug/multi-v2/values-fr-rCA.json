@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Projects\\Tutorial\\React\\ReactNativeProj1\\auth\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "C:\\Projects\\Tutorial\\React\\TutorialRN\\auth\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\JohannesNap\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\80d538ca3a0a246c558f438e08118cb0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\Johannes\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5c2e9e334c0bde941c124eddc031ae5d\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\JohannesNap\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d844486b33b1e736fd3249a6ef8106b9\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\Johannes\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e78739c3342f8330791055c59c0a0148\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
