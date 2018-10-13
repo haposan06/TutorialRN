@@ -8,8 +8,6 @@ const INITIAl_STATE = {
     loading: false
 };
 export default (state = INITIAl_STATE, action) => {
-    console.log(action);
-
     switch (action.type) {
         case EMAIL_CHANGED:
             return {...state, email: action.payload};
